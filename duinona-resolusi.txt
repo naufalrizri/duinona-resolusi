@@ -3,3 +3,4 @@ DUINONA RESOLUSI
 - membuat kemudahan dalam penggunaan mikrokontroller di bidang teknologi industri pertanian 4.0
 - menjadi pioneer dalam pengembangan mekanisasi industri pertanian 4.0
 - membuat opensource project
+- memajukan pertanian di indonesia
